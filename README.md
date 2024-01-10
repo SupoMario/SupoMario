@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SupoMario
 - 👀 I’m interested in DevOps / Jenkins pipelines / Ui test automation
-- 🌱 I’m currently learning Java, Selenium, Jenkins, C#, Xunit, QAF, Appium
+- 🌱 I’m currently learning Java, Selenium, Jenkins, C#, Xunit, QAF, Appium, Python, Cucumber, API
 - 💞️ I’m looking to collaborate on Ui test automation
 
 
